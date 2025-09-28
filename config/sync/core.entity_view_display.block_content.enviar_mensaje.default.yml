@@ -1,0 +1,23 @@
+uuid: 76b6cfe9-6dd3-45a5-9518-9d3cdc36d8db
+langcode: es
+status: true
+dependencies:
+  config:
+    - block_content.type.enviar_mensaje
+    - field.field.block_content.enviar_mensaje.body
+  module:
+    - text
+id: block_content.enviar_mensaje.default
+targetEntityType: block_content
+bundle: enviar_mensaje
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

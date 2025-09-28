@@ -1,0 +1,8 @@
+uuid: 3c09f225-3b5a-41d0-a451-0a8a9e477306
+langcode: es
+status: true
+dependencies: {  }
+id: menu-principal
+label: 'Menú Principal'
+description: 'Menu horizontal con páginas principales.'
+locked: false

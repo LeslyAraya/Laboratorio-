@@ -1,0 +1,11 @@
+uuid: 06a858f1-dc48-4e0c-8638-b6d193a42eb7
+langcode: es
+status: true
+dependencies:
+  config:
+    - block_content.type.formulario_de_contacto
+id: block_content.formulario_de_contacto
+target_entity_type_id: block_content
+target_bundle: formulario_de_contacto
+default_langcode: site_default
+language_alterable: false

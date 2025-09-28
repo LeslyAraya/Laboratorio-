@@ -1,0 +1,25 @@
+uuid: 2713f9c1-83ea-404a-9de9-445b5dd36473
+langcode: es
+status: true
+dependencies:
+  config:
+    - system.menu.categorias-laterales
+  module:
+    - system
+  theme:
+    - olivero
+id: olivero_categoriaslaterales
+theme: olivero
+region: sidebar
+weight: 0
+provider: null
+plugin: 'system_menu_block:categorias-laterales'
+settings:
+  id: 'system_menu_block:categorias-laterales'
+  label: 'Categorías Laterales'
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

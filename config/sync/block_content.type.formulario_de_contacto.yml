@@ -1,0 +1,8 @@
+uuid: 35a70dbf-bdff-4f53-9e8e-f426d6392625
+langcode: es
+status: true
+dependencies: {  }
+id: formulario_de_contacto
+label: 'Formulario de contacto'
+revision: false
+description: "<a href=\"/contacto\">Ir al formulario de contacto</a>\r\n\r\n"

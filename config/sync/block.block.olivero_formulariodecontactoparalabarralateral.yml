@@ -1,0 +1,30 @@
+uuid: b2e55598-6ce3-4bce-b2d8-c5a3d549f2e7
+langcode: es
+status: true
+dependencies:
+  content:
+    - 'block_content:formulario_de_contacto:fe49f61d-636d-4151-999f-8dd68aa4ad1b'
+  module:
+    - block_content
+    - system
+  theme:
+    - olivero
+id: olivero_formulariodecontactoparalabarralateral
+theme: olivero
+region: sidebar
+weight: -1
+provider: null
+plugin: 'block_content:fe49f61d-636d-4151-999f-8dd68aa4ad1b'
+settings:
+  id: 'block_content:fe49f61d-636d-4151-999f-8dd68aa4ad1b'
+  label: 'Formulario de contacto para la barra lateral'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/contacto\r\n"

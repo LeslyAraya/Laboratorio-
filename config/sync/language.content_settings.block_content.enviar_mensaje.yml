@@ -1,0 +1,11 @@
+uuid: b974116c-f2b8-4993-9eaa-d43b48fa0d34
+langcode: es
+status: true
+dependencies:
+  config:
+    - block_content.type.enviar_mensaje
+id: block_content.enviar_mensaje
+target_entity_type_id: block_content
+target_bundle: enviar_mensaje
+default_langcode: site_default
+language_alterable: false

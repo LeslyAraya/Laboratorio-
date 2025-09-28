@@ -1,0 +1,9 @@
+uuid: 97ddfd42-983c-428b-b487-c66f9d942eea
+langcode: es
+status: true
+dependencies: {  }
+name: Categorias
+vid: categorias
+description: null
+weight: 0
+new_revision: false

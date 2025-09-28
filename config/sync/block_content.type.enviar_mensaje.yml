@@ -1,0 +1,8 @@
+uuid: 5bfc83de-c29d-4b8f-80f4-84e6eb766d94
+langcode: es
+status: true
+dependencies: {  }
+id: enviar_mensaje
+label: 'Enviar mensaje'
+revision: false
+description: "<a href=\"/contact\">Ir al formulario de contacto</a>\r\n"

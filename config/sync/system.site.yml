@@ -1,0 +1,15 @@
+_core:
+  default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
+langcode: es
+uuid: f4e67738-6c05-4a72-a1a9-422118e2a5f5
+name: LaboratorioDrupalUTN
+mail: fabiananugo17@gmail.com
+slogan: 'Explorando Drupal y Gestión de Contenidos'
+page:
+  403: ''
+  404: ''
+  front: /node/5
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: es
+mail_notification: null

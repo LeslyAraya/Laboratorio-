@@ -1,0 +1,8 @@
+uuid: 9a57437d-3e6b-425b-bf9e-46240b99b8a1
+langcode: es
+status: true
+dependencies: {  }
+id: categorias-laterales
+label: 'Categorías Laterales'
+description: 'Menú vertical con categorías.'
+locked: false

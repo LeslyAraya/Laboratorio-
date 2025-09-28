@@ -1,0 +1,13 @@
+uuid: 1d54be2a-8f19-48e1-b760-a357999759a2
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: KgGJDZFpMaz_8bTv6fN1bXS3Qi5LWmRJI9R53kEGsNQ
+id: node.teaser
+label: Resumen
+description: ''
+targetEntityType: node
+cache: true

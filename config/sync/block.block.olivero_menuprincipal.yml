@@ -1,0 +1,25 @@
+uuid: c1f87063-8633-49d8-ad4d-a38db4664631
+langcode: es
+status: true
+dependencies:
+  config:
+    - system.menu.menu-principal
+  module:
+    - system
+  theme:
+    - olivero
+id: olivero_menuprincipal
+theme: olivero
+region: primary_menu
+weight: 0
+provider: null
+plugin: 'system_menu_block:menu-principal'
+settings:
+  id: 'system_menu_block:menu-principal'
+  label: 'Menú Principal'
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

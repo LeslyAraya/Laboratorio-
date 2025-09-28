@@ -1,0 +1,12 @@
+uuid: 080165fb-9ada-42a3-b5f3-f4cbf95f12c1
+langcode: es
+status: true
+dependencies: {  }
+id: formulario_de_contacto
+label: 'Formulario de contacto'
+recipients:
+  - drupalprueba4@gmail.com
+reply: ''
+weight: 0
+message: 'Gracias por tu mensaje, te responderemos pronto.'
+redirect: /bienvenido

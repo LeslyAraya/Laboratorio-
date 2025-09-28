@@ -1,0 +1,23 @@
+uuid: e960861e-9d3e-4bc2-a5f7-140a10f9936a
+langcode: es
+status: true
+dependencies:
+  config:
+    - block_content.type.formulario_de_contacto
+    - field.field.block_content.formulario_de_contacto.body
+  module:
+    - text
+id: block_content.formulario_de_contacto.default
+targetEntityType: block_content
+bundle: formulario_de_contacto
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true
