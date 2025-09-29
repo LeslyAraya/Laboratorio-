@@ -1,3 +1,7 @@
 _core:
   default_config_hash: e883aGsrt1wFrsydlYU584PZONCSfRy0DtkZ9KzHb58
+<<<<<<< HEAD
+=======
+langcode: es
+>>>>>>> origin/rama-Lesly
 row_limit: 1000

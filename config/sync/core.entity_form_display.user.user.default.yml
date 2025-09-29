@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 uuid: 8f483fec-1940-4895-b43e-bb410aabb11f
 langcode: en
+=======
+uuid: 6231407e-f946-427a-bb27-ac68fb76d0d7
+langcode: es
+>>>>>>> origin/rama-Lesly
 status: true
 dependencies:
   config:

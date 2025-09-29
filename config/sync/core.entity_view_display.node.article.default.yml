@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 uuid: 9d4a5af4-7db7-41a7-aabb-c56345047812
 langcode: en
+=======
+uuid: 8f4b033a-00f3-41c6-883a-f668ac20feb5
+langcode: es
+>>>>>>> origin/rama-Lesly
 status: true
 dependencies:
   config:
@@ -16,7 +21,11 @@ dependencies:
     - text
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: br6izr-iGEu--JvNbCJNtOBpRnxpFLXfoV5y61U9Nqc
+=======
+  default_config_hash: 7fb0j9HnIXfP9ndewzgPPzzeX_SV532wuYpkscrCMCk
+>>>>>>> origin/rama-Lesly
 id: node.article.default
 targetEntityType: node
 bundle: article
@@ -45,7 +54,11 @@ content:
       image_link: ''
       image_style: wide
       image_loading:
+<<<<<<< HEAD
         attribute: eager
+=======
+        attribute: lazy
+>>>>>>> origin/rama-Lesly
     third_party_settings: {  }
     weight: -1
     region: content

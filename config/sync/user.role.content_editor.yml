@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: 56ad59d9-a637-444f-9895-92f000dd7b3f
+=======
+uuid: f0a7cff9-b93e-479e-a459-2baace4f278e
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -15,8 +19,14 @@ dependencies:
     - system
     - taxonomy
     - toolbar
+<<<<<<< HEAD
 _core:
   default_config_hash: e_wG1u7SrGaJbY2-Szgbgl-c8T3kdirU3uTNq2c_QJQ
+=======
+    - tour
+_core:
+  default_config_hash: NtMgnXp0miNtJhag07NSjwdCm4zpJwhlDFs1HgyL4wI
+>>>>>>> origin/rama-Lesly
 id: content_editor
 label: 'Editor de contenido'
 weight: 2
@@ -27,6 +37,10 @@ permissions:
   - 'access contextual links'
   - 'access files overview'
   - 'access toolbar'
+<<<<<<< HEAD
+=======
+  - 'access tour'
+>>>>>>> origin/rama-Lesly
   - 'administer url aliases'
   - 'create article content'
   - 'create page content'

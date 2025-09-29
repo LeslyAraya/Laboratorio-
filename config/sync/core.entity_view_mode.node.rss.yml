@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 uuid: 75349b17-ef96-46df-b7eb-971446fe8086
+=======
+uuid: 71eaae3a-4a40-45a1-9278-ae30412e447e
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: false
 dependencies:
   module:
     - node
 _core:
+<<<<<<< HEAD
   default_config_hash: l8fiAFE3Kng_6bhLlUDnVTkTDzXWxzYFrCWTrngVXEA
 id: node.rss
 label: RSS
 description: ''
+=======
+  default_config_hash: vlYzr-rp2f9NMp-Qlr4sFjlqRq-90mco5-afLNGwCrU
+id: node.rss
+label: RSS
+>>>>>>> origin/rama-Lesly
 targetEntityType: node
 cache: true

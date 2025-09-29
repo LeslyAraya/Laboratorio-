@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: 9efb79ae-6e3b-47f3-8245-39bef446b444
+=======
+uuid: 2991f4e5-1ffb-4cc7-84ef-f1eb61a2261b
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: false
 dependencies:
@@ -8,7 +12,11 @@ dependencies:
     - node
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: exIF08PTvYSK6tJCsAzBqMEKUBKIptPorMn74SVhevc
+=======
+  default_config_hash: ko9GznzNBXHkuz09OCaBQ1YOSJYYjTY0TBpNV3WKnog
+>>>>>>> origin/rama-Lesly
 id: archive
 label: Archivo
 module: node
@@ -29,7 +37,10 @@ display:
         type: mini
         options:
           offset: 0
+<<<<<<< HEAD
           pagination_heading_level: h4
+=======
+>>>>>>> origin/rama-Lesly
           items_per_page: 10
           total_pages: 0
           id: 0

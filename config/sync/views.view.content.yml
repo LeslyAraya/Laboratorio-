@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: 6bb5fa7b-29b2-4a23-aac9-97e6aad4fc65
+=======
+uuid: 200f3e6e-5793-40b7-8469-8366c0d17ea8
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -6,7 +10,11 @@ dependencies:
     - node
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: d7p-wwJZ_Wmz1gnvla9jDtRsjOaWAhPoIoW9w3vo4R4
+=======
+  default_config_hash: 3ELwBpDb9lzqW5-daqjZYsC5lNcwbDS_i_-LKba12Lw
+>>>>>>> origin/rama-Lesly
 id: content
 label: Contenido
 module: node
@@ -196,6 +204,7 @@ display:
               past_format: '@interval ago'
               granularity: 2
               refresh: 60
+<<<<<<< HEAD
         langcode:
           id: langcode
           table: node_field_data
@@ -262,6 +271,8 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
+=======
+>>>>>>> origin/rama-Lesly
         operations:
           id: operations
           table: node
@@ -315,7 +326,10 @@ display:
       pager:
         type: full
         options:
+<<<<<<< HEAD
           pagination_heading_level: h4
+=======
+>>>>>>> origin/rama-Lesly
           items_per_page: 50
           tags:
             next: 'Siguiente >'

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: d947d07a-e6b5-4551-8aee-c5298ad46c3c
+=======
+uuid: 52215919-40e3-4e57-be6e-1d5e6b24ce04
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: false
 dependencies:
@@ -8,7 +12,11 @@ dependencies:
     - node
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: r-klgGeO4haVHqAwxW1HXZLzdzLSMUVC08OuTBrRh58
+=======
+  default_config_hash: 0mU55pEUCMGcMhBRpyMqjal173jNwZh0hrvImj4HVWU
+>>>>>>> origin/rama-Lesly
 id: glossary
 label: Glosario
 module: node
@@ -196,7 +204,10 @@ display:
         type: mini
         options:
           offset: 0
+<<<<<<< HEAD
           pagination_heading_level: h4
+=======
+>>>>>>> origin/rama-Lesly
           items_per_page: 36
           total_pages: 0
           id: 0
@@ -249,6 +260,10 @@ display:
           default_argument_type: fixed
           default_argument_options:
             argument: a
+<<<<<<< HEAD
+=======
+          default_argument_skip_url: false
+>>>>>>> origin/rama-Lesly
           summary_options: {  }
           summary:
             format: default_summary
@@ -415,6 +430,10 @@ display:
           default_argument_type: fixed
           default_argument_options:
             argument: a
+<<<<<<< HEAD
+=======
+          default_argument_skip_url: false
+>>>>>>> origin/rama-Lesly
           summary_options:
             items_per_page: 25
             inline: true

@@ -1,21 +1,32 @@
+<<<<<<< HEAD
 uuid: 3649eef8-cd0a-4d12-8f75-8f539d4768a7
+=======
+uuid: aead5f7f-2cba-4559-a719-317a791dbcb1
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
   module:
     - editor
 _core:
+<<<<<<< HEAD
   default_config_hash: vpZysv3RHJjhYzq7O_q5q8mVlHdrSzKELmXyiX6RtV0
+=======
+  default_config_hash: HvAE4vD_4-nvhwLobIN3k5rTE9zq9AQG8UScfnwuKQo
+>>>>>>> origin/rama-Lesly
 name: 'HTML completo'
 format: full_html
 weight: 2
 filters:
+<<<<<<< HEAD
   editor_file_reference:
     id: editor_file_reference
     provider: editor
     status: true
     weight: 11
     settings: {  }
+=======
+>>>>>>> origin/rama-Lesly
   filter_align:
     id: filter_align
     provider: filter
@@ -40,3 +51,12 @@ filters:
     status: true
     weight: 15
     settings: {  }
+<<<<<<< HEAD
+=======
+  editor_file_reference:
+    id: editor_file_reference
+    provider: editor
+    status: true
+    weight: 11
+    settings: {  }
+>>>>>>> origin/rama-Lesly

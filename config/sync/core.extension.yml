@@ -1,7 +1,13 @@
 _core:
+<<<<<<< HEAD
   default_config_hash: 4GIX5Esnc_umpXUBj4IIocRX7Mt5fPhm4AgXfE3E56E
 module:
   announcements_feed: 0
+=======
+  default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc
+langcode: es
+module:
+>>>>>>> origin/rama-Lesly
   automated_cron: 0
   big_pipe: 0
   block: 0
@@ -28,7 +34,10 @@ module:
   locale: 0
   menu_link_content: 0
   menu_ui: 0
+<<<<<<< HEAD
   metatag: 0
+=======
+>>>>>>> origin/rama-Lesly
   mysql: 0
   node: 0
   options: 0
@@ -37,12 +46,20 @@ module:
   path_alias: 0
   search: 0
   shortcut: 0
+<<<<<<< HEAD
   smtp: 0
   system: 0
   taxonomy: 0
   text: 0
   token: 0
   toolbar: 0
+=======
+  system: 0
+  taxonomy: 0
+  text: 0
+  toolbar: 0
+  tour: 0
+>>>>>>> origin/rama-Lesly
   update: 0
   user: 0
   views_ui: 0

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: 2327603c-03c0-42b3-ba4e-dc0303576cba
+=======
+uuid: b9022bbb-c4e9-40e5-9747-d9c35d124c1e
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -14,7 +18,11 @@ provider: null
 plugin: local_actions_block
 settings:
   id: local_actions_block
+<<<<<<< HEAD
   label: 'Primary admin actions'
+=======
+  label: 'Acciones principales de administración'
+>>>>>>> origin/rama-Lesly
   label_display: '0'
   provider: core
 visibility: {  }

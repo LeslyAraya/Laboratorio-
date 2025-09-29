@@ -1,11 +1,22 @@
+<<<<<<< HEAD
 uuid: c5813beb-a2e2-48c3-8956-7db3df15b15a
+=======
+uuid: 0a8860a7-ebfd-46ac-8b9b-ae80bf2a4797
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies: {  }
 _core:
+<<<<<<< HEAD
   default_config_hash: iTEzwrEQ_4JIb-OYGiqzyF2TmMgWyWayresXcWgwGWM
+=======
+  default_config_hash: yoNVreoTdTZTY7GuE8fI9Jmxqdz8vlo4ZJKixMNSosw
+>>>>>>> origin/rama-Lesly
 name: Etiquetas
 vid: tags
 description: 'Utilice etiquetas para agrupar artículos sobre temas similares en categorías.'
 weight: 0
+<<<<<<< HEAD
 new_revision: false
+=======
+>>>>>>> origin/rama-Lesly

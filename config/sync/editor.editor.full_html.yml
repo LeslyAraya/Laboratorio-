@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: 9e81a905-44f8-47b9-bf0d-ca1ac410ec01
+=======
+uuid: 6720d729-fb9c-450e-934f-49fef9b604b8
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -7,7 +11,11 @@ dependencies:
   module:
     - ckeditor5
 _core:
+<<<<<<< HEAD
   default_config_hash: lurcn8yf33g3Dkzdc55cTfJa9salGp9ytSYyG1s7QMI
+=======
+  default_config_hash: m3pL_vbOaNdIkaQFbupVk6gUbrQgO6j9KxoL6yw6yNw
+>>>>>>> origin/rama-Lesly
 format: full_html
 editor: ckeditor5
 settings:
@@ -89,17 +97,29 @@ settings:
     ckeditor5_imageResize:
       allow_resize: true
     ckeditor5_list:
+<<<<<<< HEAD
       properties:
         reversed: true
         startIndex: true
       multiBlock: true
+=======
+      reversed: true
+      startIndex: true
+>>>>>>> origin/rama-Lesly
     ckeditor5_sourceEditing:
       allowed_tags: {  }
 image_upload:
   status: true
   scheme: public
   directory: inline-images
+<<<<<<< HEAD
   max_size: null
   max_dimensions:
     width: null
     height: null
+=======
+  max_size: ''
+  max_dimensions:
+    width: 0
+    height: 0
+>>>>>>> origin/rama-Lesly

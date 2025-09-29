@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 uuid: b89474f9-991d-41d0-9e0b-c9a4d18b2149
+=======
+uuid: 27ae7ab2-383c-4517-8514-370e8448b156
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: false
 dependencies:
   module:
     - comment
 _core:
+<<<<<<< HEAD
   default_config_hash: N4mUjXpPckUkVRY1PbKw4GGoL1i2ECU7PL3EreiKStk
 id: comment.full
 label: 'Comentario completo'
 description: ''
+=======
+  default_config_hash: K7eNlfU7NEUajz01wItywZklr2oaPgL6s1_97fmDXLA
+id: comment.full
+label: 'Comentario completo'
+>>>>>>> origin/rama-Lesly
 targetEntityType: comment
 cache: true

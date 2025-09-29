@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: c174a665-ab70-40df-bfec-7dfdfa58da81
+=======
+uuid: b4637ea7-7a4b-4034-b527-758d07756d9b
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -16,7 +20,11 @@ provider: null
 plugin: system_branding_block
 settings:
   id: system_branding_block
+<<<<<<< HEAD
   label: DRUPAL
+=======
+  label: 'Marca del sitio'
+>>>>>>> origin/rama-Lesly
   label_display: '0'
   provider: system
   use_site_logo: true

@@ -1,13 +1,25 @@
+<<<<<<< HEAD
 uuid: bb4ad39c-eeac-44ce-a4eb-4df4d6c72771
+=======
+uuid: 8f77dffa-1a8b-46a6-b65c-e3727ecbbc7b
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies: {  }
 _core:
+<<<<<<< HEAD
   default_config_hash: Fe3N1uqaAyyKJbVkqT-btXy3t98puW8GCRD822xjl10
 name: Artículo
 type: article
 description: 'Use los <em>artículos</em> para contenido que tenga relevancia temporal como las noticias o las publicaciones en blogs.'
 help: null
+=======
+  default_config_hash: AeW1SEDgb1OTQACAWGhzvMknMYAJlcZu0jljfeU3oso
+name: Artículo
+type: article
+description: 'Use los <em>artículos</em> para contenido que tenga relevancia temporal como las noticias o las publicaciones en blogs.'
+help: ''
+>>>>>>> origin/rama-Lesly
 new_revision: true
 preview_mode: 1
 display_submitted: true

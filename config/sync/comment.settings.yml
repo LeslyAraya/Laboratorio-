@@ -1,3 +1,7 @@
 _core:
   default_config_hash: YNUW2Ij5uE7a4oaXp3i_2lvaFdYM1zNKPPfnEjB0jEc
+<<<<<<< HEAD
+=======
+langcode: es
+>>>>>>> origin/rama-Lesly
 log_ip_addresses: false

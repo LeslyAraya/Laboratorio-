@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 uuid: 6b863800-0010-4d6d-b7ea-790edb10dce1
 langcode: en
+=======
+uuid: 0eacb5da-dc87-4e41-9228-4b4dbc5adb3f
+langcode: es
+>>>>>>> origin/rama-Lesly
 status: true
 dependencies:
   config:
@@ -20,8 +25,13 @@ content:
     type: image
     label: hidden
     settings:
+<<<<<<< HEAD
       image_style: thumbnail
       image_link: content
+=======
+      image_link: content
+      image_style: thumbnail
+>>>>>>> origin/rama-Lesly
       image_loading:
         attribute: lazy
     third_party_settings: {  }

@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 uuid: 0f3de3c5-fea9-4fba-8215-fa92cb2a0c70
+=======
+uuid: fa64557b-c47d-4ef0-adc3-cf50dc8c44b0
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies: {  }
 _core:
+<<<<<<< HEAD
   default_config_hash: dlar76VBuGj5iMGTruB_uMZX8VbivXt9_QLemaG2q4E
+=======
+  default_config_hash: Y9NmnZHQq20ASSyTNA6JnwtWrJJiSajOehGDtmUFdM0
+>>>>>>> origin/rama-Lesly
 name: medium
 label: 'Medio (220×220)'
 effects:
@@ -15,9 +23,12 @@ effects:
       width: 220
       height: 220
       upscale: false
+<<<<<<< HEAD
   c410ed2f-aa30-4d9c-a224-d2865d9188cd:
     uuid: c410ed2f-aa30-4d9c-a224-d2865d9188cd
     id: image_convert
     weight: 2
     data:
       extension: webp
+=======
+>>>>>>> origin/rama-Lesly

@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 uuid: cde1411c-55bd-4806-bc20-49bd403c885b
+=======
+uuid: 1b3c68e8-077a-46b1-8216-10a1a96c6253
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: false
 dependencies:
   module:
     - node
 _core:
+<<<<<<< HEAD
   default_config_hash: r_A0T3aTqGDwLyvoH7wLps-0PM--RHlS8UsiJe_Ac64
 id: node.search_index
 label: 'Índice de búsqueda'
 description: ''
+=======
+  default_config_hash: fVFfJv_GzBRE-wpRHbfD5a3VjnhbEOXG6lvRd3uaccY
+id: node.search_index
+label: 'Índice de búsqueda'
+>>>>>>> origin/rama-Lesly
 targetEntityType: node
 cache: true

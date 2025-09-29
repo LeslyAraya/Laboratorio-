@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 uuid: f53a0eb5-cd03-44c9-bf31-d5d7b3db435e
+=======
+uuid: af9c68a1-c000-41b3-a7ca-b084364cb67e
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
   module:
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: 5pE_4hurqtIlZN3XDi7eTo5RG13BMG0Rh9HYlRI3h8U
 id: user.register
 label: Registro
 description: ''
+=======
+  default_config_hash: flXhTcp55yLcyy7ZLOhPGKGZobZQJdkAFVWV3LseiuI
+id: user.register
+label: Registro
+>>>>>>> origin/rama-Lesly
 targetEntityType: user
 cache: true

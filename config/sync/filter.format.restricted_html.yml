@@ -1,19 +1,30 @@
+<<<<<<< HEAD
 uuid: a8b6749f-59fd-4042-99bb-718ea4806dab
+=======
+uuid: 0b88bcb3-2c27-48f8-8a3c-cb5b03e61110
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies: {  }
 _core:
+<<<<<<< HEAD
   default_config_hash: QiKqQS_YGAT3Qr4vaAgZICJknm-MGCzt_xBAMqg-tRM
+=======
+  default_config_hash: oz6NyPDAB4HB6N9hgH2LwNVtCd-sXbMG1fbn5KsRIDI
+>>>>>>> origin/rama-Lesly
 name: 'HTML Restringido'
 format: restricted_html
 weight: 1
 filters:
+<<<<<<< HEAD
   filter_autop:
     id: filter_autop
     provider: filter
     status: true
     weight: 0
     settings: {  }
+=======
+>>>>>>> origin/rama-Lesly
   filter_html:
     id: filter_html
     provider: filter
@@ -23,6 +34,15 @@ filters:
       allowed_html: '<a href hreflang> <em> <strong> <cite> <blockquote cite> <code> <ul type> <ol start type> <li> <dl> <dt> <dd> <h2 id> <h3 id> <h4 id> <h5 id> <h6 id>'
       filter_html_help: true
       filter_html_nofollow: false
+<<<<<<< HEAD
+=======
+  filter_autop:
+    id: filter_autop
+    provider: filter
+    status: true
+    weight: 0
+    settings: {  }
+>>>>>>> origin/rama-Lesly
   filter_url:
     id: filter_url
     provider: filter

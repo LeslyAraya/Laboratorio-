@@ -1,5 +1,9 @@
 _core:
   default_config_hash: 1TswGK46jyu77aIM7Z-0JVQs5bxHmo-gtgrvrQGMXxc
+<<<<<<< HEAD
+=======
+langcode: es
+>>>>>>> origin/rama-Lesly
 favicon:
   use_default: true
 features:

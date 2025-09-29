@@ -1,10 +1,21 @@
+<<<<<<< HEAD
 uuid: dcb335c3-0aa6-4c5e-a61f-0ce2c57ba387
+=======
+uuid: 6f931277-a0a0-41e2-b9ad-b1df36a0b00e
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies: {  }
 _core:
+<<<<<<< HEAD
   default_config_hash: pQP5iQy4SdhAMVcjDUncCfkJmTofnHVtXrsMzx4k6Yk
 id: basic
 label: 'Bloque básico'
 revision: false
+=======
+  default_config_hash: zglzjmYxi0G0ag9MZ02y0LSJOdpWRwJxyP_OvFojFyo
+id: basic
+label: 'Bloque básico'
+revision: 0
+>>>>>>> origin/rama-Lesly
 description: 'Un bloque básico contiene un título y un cuerpo.'

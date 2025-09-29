@@ -1,5 +1,9 @@
 _core:
   default_config_hash: uEePITI9tV6WqzmsTb7MfPCi5yPWXSxAN1xeLcYFQbM
+<<<<<<< HEAD
+=======
+langcode: es
+>>>>>>> origin/rama-Lesly
 session:
   parameter: language
 url:

@@ -1,19 +1,30 @@
+<<<<<<< HEAD
 uuid: 40276573-a02a-4966-a6ba-22a44f2b6428
+=======
+uuid: 596b312e-e817-4ec5-8a77-d61993b7fae3
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies: {  }
 _core:
+<<<<<<< HEAD
   default_config_hash: JLMwODO0epnA_H-jFlH9ezVfa5YBJniRv3MmLqYNl_Q
+=======
+  default_config_hash: NIKBt6kw_uPhNI0qtR2DnRf7mSOgAQdx7Q94SKMjXbQ
+>>>>>>> origin/rama-Lesly
 name: 'Texto sin formato'
 format: plain_text
 weight: 10
 filters:
+<<<<<<< HEAD
   filter_autop:
     id: filter_autop
     provider: filter
     status: true
     weight: 0
     settings: {  }
+=======
+>>>>>>> origin/rama-Lesly
   filter_html_escape:
     id: filter_html_escape
     provider: filter
@@ -27,3 +38,12 @@ filters:
     weight: 0
     settings:
       filter_url_length: 72
+<<<<<<< HEAD
+=======
+  filter_autop:
+    id: filter_autop
+    provider: filter
+    status: true
+    weight: 0
+    settings: {  }
+>>>>>>> origin/rama-Lesly

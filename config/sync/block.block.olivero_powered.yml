@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: 38af0756-ee48-49d8-ba6b-934cf6fe79b4
+=======
+uuid: 5741a53e-002f-406b-8297-13f74e6af8c5
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -11,7 +15,11 @@ _core:
 id: olivero_powered
 theme: olivero
 region: footer_bottom
+<<<<<<< HEAD
 weight: -8
+=======
+weight: 0
+>>>>>>> origin/rama-Lesly
 provider: null
 plugin: system_powered_by_block
 settings:

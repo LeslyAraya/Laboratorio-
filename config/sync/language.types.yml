@@ -1,5 +1,9 @@
 _core:
   default_config_hash: dqouFqVseNJNvEjsoYKxbinFOITuCxYhi4y2OTNQP_8
+<<<<<<< HEAD
+=======
+langcode: es
+>>>>>>> origin/rama-Lesly
 all:
   - language_interface
   - language_content

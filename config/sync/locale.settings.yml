@@ -1,5 +1,9 @@
 _core:
   default_config_hash: cSdYeE-_AQETCNZnl8BMFS9-sVn5--VzAYILkpPBUbM
+<<<<<<< HEAD
+=======
+langcode: es
+>>>>>>> origin/rama-Lesly
 cache_strings: true
 translate_english: false
 javascript:

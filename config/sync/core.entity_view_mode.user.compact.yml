@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 uuid: a57dd9c0-e559-4c9a-b8b8-7a69eb981e4a
+=======
+uuid: 911f7af6-97ca-4263-8b2b-b1dcb0cafe9f
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
   module:
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: TtD7OuGskOsQfoGyxXkrdtllBpR37J19d5BMQDZWJgA
 id: user.compact
 label: Compacto
 description: ''
+=======
+  default_config_hash: 71CSAr_LNPcgu6D6jI4INl1KATkahmeyUFBETAWya8g
+id: user.compact
+label: Compacto
+>>>>>>> origin/rama-Lesly
 targetEntityType: user
 cache: true

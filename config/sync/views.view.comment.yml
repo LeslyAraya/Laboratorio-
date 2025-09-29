@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: ed0a9624-2832-4736-9ad4-78d4bd7a483a
+=======
+uuid: 85d0b899-ac9b-4473-b120-0d3fb738368d
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -6,7 +10,11 @@ dependencies:
     - comment
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: H6JHGXl97yOKmVaV62SoY1ki1tWVdyD44fgOkdmVyRM
+=======
+  default_config_hash: WFURZFZFHS9S7tEJJqOd6ucYexi84JiyQxE5suLP7D8
+>>>>>>> origin/rama-Lesly
 id: comment
 label: Comentarios
 module: comment
@@ -533,7 +541,10 @@ display:
         type: full
         options:
           offset: 0
+<<<<<<< HEAD
           pagination_heading_level: h4
+=======
+>>>>>>> origin/rama-Lesly
           items_per_page: 50
           total_pages: null
           id: 0

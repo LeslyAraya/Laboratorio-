@@ -1,6 +1,13 @@
 _core:
+<<<<<<< HEAD
   default_config_hash: 8oDr9oPVb_ostrNnVV6V7VdphwoH_u-NqTS0u7SE7qc
 display_extenders: {  }
+=======
+  default_config_hash: uZHsLrDp1ThO0RvupHKcPzLOyVvWexm58JTTHNDo7yc
+langcode: es
+display_extenders: {  }
+skip_cache: false
+>>>>>>> origin/rama-Lesly
 sql_signature: false
 ui:
   show:

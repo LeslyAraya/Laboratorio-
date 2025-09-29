@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: 1321da60-1496-4ca4-98b9-ba4cea4a22f3
+=======
+uuid: 33a16372-57be-4c71-987b-db8963b0bdff
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -7,7 +11,11 @@ dependencies:
     - node
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: cFOucxH8PAXDQ2kViCcAHgK-JMCcxVkpIMzD56EfpZo
+=======
+  default_config_hash: S_NN2ubd_NovTfgzbHVlZMmIJJQS-3h9h3inzbaFUMY
+>>>>>>> origin/rama-Lesly
 id: comments_recent
 label: 'Comentarios recientes'
 module: views
@@ -185,7 +193,11 @@ display:
           admin_label: ''
           entity_type: comment
           entity_field: cid
+<<<<<<< HEAD
           plugin_id: standard
+=======
+          plugin_id: field
+>>>>>>> origin/rama-Lesly
           order: DESC
           expose:
             label: ''

@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 uuid: 70a3f9b2-7181-47d1-91d7-d49079e73449
+=======
+uuid: 7cb6ce7d-2fae-423b-94d1-77352a224f90
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
   module:
     - user
 _core:
+<<<<<<< HEAD
   default_config_hash: FFLg74mnzRE10lgg5fspPCZWLnIEcvCnJMlNzj8OEtw
+=======
+  default_config_hash: njaZigMvB4ap21Fg_tQcJhWgYJCGNi49Z5rRL_N6RI0
+>>>>>>> origin/rama-Lesly
 id: user_admin_people
 label: Usuarios
 module: user
@@ -462,7 +470,10 @@ display:
         type: full
         options:
           offset: 0
+<<<<<<< HEAD
           pagination_heading_level: h4
+=======
+>>>>>>> origin/rama-Lesly
           items_per_page: 50
           total_pages: 0
           id: 0

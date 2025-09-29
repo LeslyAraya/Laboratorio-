@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uuid: cfb30837-ba33-440f-99bf-8beafce561f7
+=======
+uuid: 6888380f-8df0-4b62-b387-95a814f376a4
+>>>>>>> origin/rama-Lesly
 langcode: es
 status: true
 dependencies:
@@ -8,7 +12,11 @@ dependencies:
   module:
     - image
 _core:
+<<<<<<< HEAD
   default_config_hash: j0riO_-77ZFWNLtj0iJ31HnohiNjdn8HUL86RueCF-M
+=======
+  default_config_hash: PmVL51L3A9QGbPLoeLHw5epAPszeZRasCeC3imeeDRQ
+>>>>>>> origin/rama-Lesly
 id: node.article.field_image
 field_name: field_image
 entity_type: node
@@ -23,7 +31,11 @@ settings:
   handler: 'default:file'
   handler_settings: {  }
   file_directory: '[date:custom:Y]-[date:custom:m]'
+<<<<<<< HEAD
   file_extensions: 'png gif jpg jpeg webp'
+=======
+  file_extensions: 'png gif jpg jpeg'
+>>>>>>> origin/rama-Lesly
   max_filesize: ''
   max_resolution: ''
   min_resolution: ''

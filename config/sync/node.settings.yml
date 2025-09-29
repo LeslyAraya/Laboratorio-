@@ -1,3 +1,7 @@
 _core:
   default_config_hash: W0cgFPhPJ3gAdqm06-az48BLf5MVcoZVS0HdByoofi0
+<<<<<<< HEAD
+=======
+langcode: es
+>>>>>>> origin/rama-Lesly
 use_admin_theme: true
